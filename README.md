@@ -1,5 +1,5 @@
 # TTTAI
-Creating an AI for the Tic-Tac-Toe game involves defining a Python module with a get_move(board) function that returns the row and column where the AI player wants to place its move. The AI module should interact with the main script, which handles the game logic and flow.
+Creating an AI for Tic-Tac-Toe involves defining a Python module with a get_move(board) function that returns the row and column where the AI player wants to place its move. The AI module should interact with the main script, which handles the game logic and flow.
 
 Below is a step-by-step guide on how to create an AI for the Tic-Tac-Toe game:
 
