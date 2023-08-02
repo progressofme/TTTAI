@@ -1,4 +1,31 @@
-# TTTAI
+# About The AI's
+
+There are currently 8 Tic Tac Toe AI's.
+
+# Bad / Random AI's:
+
+BadAI - All of it's moves are random
+
+WorstAI - Only takes the edge moves, all random.
+
+ImpossibleAI - Sees a loss in one move, and prevents it. All other moves are random.
+
+MateInOne - All moves are random except for when it sees a win in one move for themselves.
+
+# Eh AI's:
+
+Best - Not the best. It makes good moves but misses wins in one for the other team. Named after Chess.
+
+Torch - Takes the longest to start up, and it only eh. 
+
+# Best AI's:
+
+Boredom - One of the best! It either wins or ties with the top AI's
+
+Fishstock - It took the code from MateInOne, ImpossibleAI, and Best to make the top AI right now. Named after Stockfish for Chess.
+
+
+# Creating An AI
 Creating an AI for Tic-Tac-Toe involves defining a Python module with a get_move(board) function that returns the row and column where the AI player wants to place its move. The AI module should interact with the main script, which handles the game logic and flow.
 
 Below is a step-by-step guide on how to create an AI for the Tic-Tac-Toe game:
