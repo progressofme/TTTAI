@@ -1,10 +1,8 @@
 # About The AI's
 
-There are currently 8 Tic Tac Toe AI's.
+There are currently 11 Tic Tac Toe AI's.
 
 # Bad / Random AI's:
-
-Exploiter - Can give itself an extra turn when it sees a win in 2 on the board
 
 BadAI - All of it's moves are random
 
@@ -16,6 +14,10 @@ MateInOne - All moves are random except for when it sees a win in one move for t
 
 # Eh AI's:
 
+Intermediate - It's okay. Not much else to say.
+
+Champion - Combined code of every AI. Not that good.
+
 Best - Not the best. It makes good moves but misses wins in one for the other team. Named after Chess.
 
 Torch - Takes the longest to start up, and it only eh. 
@@ -25,6 +27,8 @@ Torch - Takes the longest to start up, and it only eh.
 Boredom - One of the best! It either wins or ties with the top AI's
 
 Fishstock - It took the code from MateInOne, ImpossibleAI, and Best to make the top AI right now. Named after Stockfish for Chess.
+
+Fascination - The best AI right now. Beats Boredom, knows stratigies, and beats some humans. Named after boredom, being the opposite.
 
 
 # Creating An AI
