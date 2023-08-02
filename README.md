@@ -4,7 +4,7 @@ There are currently 8 Tic Tac Toe AI's.
 
 # Bad / Random AI's:
 
-Hacker - Can override one slot once a game
+Exploiter - Can give itself an extra turn when it sees a win in 2 on the board
 
 BadAI - All of it's moves are random
 
