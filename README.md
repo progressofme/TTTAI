@@ -26,10 +26,29 @@ Torch - Takes the longest to start up, and it only eh.
 
 Boredom - One of the best! It either wins or ties with the top AI's
 
-Fishstock - It took the code from MateInOne, ImpossibleAI, and Best to make the top AI right now. Named after Stockfish for Chess.
+Fishstock - It took the code from MateInOne, ImpossibleAI, and Best. Named after Stockfish for Chess.
 
 Fascination - The best AI right now. Beats Boredom, knows stratigies, and beats some humans. Named after boredom, being the opposite.
 
+
+
+# The AI Fight
+
+# This is still in-the-works
+
+# Each bot was put up to 100 games against Boredom. The Bot is X, Boredom is O.
+
+#1
+
+Fascination
+
+X won 28 times
+O won 6 times
+Game Drawn 66 times
+
+#2
+
+Boredom
 
 # Creating An AI
 Creating an AI for Tic-Tac-Toe involves defining a Python module with a get_move(board) function that returns the row and column where the AI player wants to place its move. The AI module should interact with the main script, which handles the game logic and flow.
